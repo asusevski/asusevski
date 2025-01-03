@@ -1,10 +1,11 @@
 ### ⸜( ˙˘˙)⸝ Thank you for visiting my GitHub profile!
 
-I'm currently a Data Scientist at RBC Capital Markets under the QTS Investment Banking Alternative Data and AI Team.
+I'm currently an AI Engineer at RBC Capital Markets under the Alternative Data and AI Team.
 
 Outside of the day job I *endeavour* to contribute as much as possible to any open-source ML community events [(click me for an example)](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome), libraries, and projects. I also sometimes make [youtube videos](https://www.youtube.com/channel/UChp2WL7ef771V0my0kZsBJg) and [short-form TikTok videos](https://www.tiktok.com/@a.susevski) discussing anything ML related.
 
 :computer: My past roles include:
+- Data Scientist @ RBC Capital Markets GIB
 - Data Scientist @ RBC Amplify (finalist btw)
 - URA Roles at the [Vision and Image Processing Lab](https://arxiv.org/html/2401.08598v1) collecting data for NutritionVerse-Real and under Joel Blit researching applying ML methods to studying patents as indicators of innovation
 - Freelance code annotator @ Cohere
